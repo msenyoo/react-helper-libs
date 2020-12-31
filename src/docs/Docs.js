@@ -23,6 +23,10 @@ export default class Docs extends React.Component {
 
     return (
       <div>
+        <div className="header">
+        <h1>React Helper Libraries</h1>
+        </div>
+        
         <Navigation components={componentData.map(component => component.name)} />
         <ComponentPage component={component} />
       </div>
