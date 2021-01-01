@@ -4,11 +4,6 @@
 <a href="https://www.npmjs.com/package/react-helper-libs" rel="nofollow"><img alt="NPM Downloads" src="http://img.shields.io/npm/dm/react-helper-libs.svg?style=flat-square" /></a>
 <a href="https://david-dm.org/msenyoo/react-helper-libs.svg" rel="nofollow"><img alt="devDependencies Status" src="https://david-dm.org/msenyoo/react-helper-libs/dev-status.svg?style=flat-square" /></a>
 
-
-![](https://komarev.com/ghpvc/?username=msenyoo&color=brightgreen)
-
-
-
 # React Components
 
 A library of React components.
