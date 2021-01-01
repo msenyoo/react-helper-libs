@@ -14,4 +14,3 @@ npm install react-helper-libs
 ## Docs
 
 [Component documentation](https://msenyoo.github.io/react-helper-libs/)
-![](https://komarev.com/ghpvc/?username=your-github-username)
