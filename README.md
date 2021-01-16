@@ -2,7 +2,6 @@
 ![Node.js CI](https://github.com/msenyoo/react-helper-libs/workflows/Node.js%20CI/badge.svg)
 <a href="https://www.npmjs.com/package/react-helper-libs" rel="nofollow"><img alt="NPM Package" src="https://img.shields.io/npm/v/react-helper-libs.svg?style=flat-square" /></a>
 <a href="https://www.npmjs.com/package/react-helper-libs" rel="nofollow"><img alt="NPM Downloads" src="http://img.shields.io/npm/dm/react-helper-libs.svg?style=flat-square" /></a>
-<a href="https://david-dm.org/msenyoo/react-helper-libs.svg" rel="nofollow"><img alt="devDependencies Status" src="https://david-dm.org/msenyoo/react-helper-libs/dev-status.svg?style=flat-square" /></a>
 
 # React Components
 
